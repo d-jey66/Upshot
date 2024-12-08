@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.two{
+    font-size: 50px;
+    margin-left: 82px;
+}
+
+@media (max-width: 800px) { 
+    .two{
+        margin-left: 340px;
+    }
+ }
+
+@media (max-width: 700px) {
+    .two{
+        margin-left: 153px;
+    }
+}
