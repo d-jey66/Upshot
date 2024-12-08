@@ -4,13 +4,6 @@ import i2 from "../assets/profile2.png"
 import i3 from "../assets/profile3.png"
 
 const Portfolio = () => {
-  const projects = [
-    { id: 1, title: "Web Design 1", image: "/images/project1.jpg" },
-    { id: 2, title: "Web Design 2", image: "/images/project2.jpg" },
-    { id: 3, title: "Web Design 3", image: "/images/project3.jpg" },
-    { id: 4, title: "Web Design 4", image: "/images/project4.jpg" },
-  ];
-
   return (
     <section id="portfolio" className="p-8 bg-[#3C2B4A] text-white">
       <center><h1 className="text-[50px]">Web Design</h1></center>

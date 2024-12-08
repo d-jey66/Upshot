@@ -1,6 +1,6 @@
 import React from "react";
 import Header1 from "./components/Header1"
-import StyleGuide from "./components/Styleguide";
+import StyleGuide from "./components/StyleGuide";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 import Section from "./components/Section";
