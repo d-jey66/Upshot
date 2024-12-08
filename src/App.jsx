@@ -1,9 +1,9 @@
 import React from "react";
-import Header from "./components/header";
-import StyleGuide from "./components/StyleGuide";
+import Header from "./components/Header";
+import StyleGuide from "./components/Styleguide";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
-import Section from "./components/section";
+import Section from "./components/Section";
 
 const App = () => {
   return (
