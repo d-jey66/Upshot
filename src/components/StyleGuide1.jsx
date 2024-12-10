@@ -1,7 +1,7 @@
 import React from 'react';
 import '../index.css';
 
-const StyleGuide = () => {
+const StyleGuide1 = () => {
 
   return (
     <div className='ml-[-7%] lg:ml-[18%]'>
@@ -84,4 +84,4 @@ const StyleGuide = () => {
   );
 };
 
-export default StyleGuide;
+export default StyleGuide1;

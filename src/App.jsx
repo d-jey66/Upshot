@@ -1,6 +1,6 @@
 import React from "react";
 import Header1 from "./components/Header1"
-import StyleGuide from "./components/StyleGuide";
+import StyleGuide1 from "./components/StyleGuide1";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 import Section from "./components/Section";
@@ -10,7 +10,7 @@ const App = () => {
     <div className="font-sans">
       <Header1 />
       <main>
-        <StyleGuide />
+        <StyleGuide1 />
         <Portfolio />
         <Section />
       </main>
