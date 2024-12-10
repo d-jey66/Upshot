@@ -3,7 +3,7 @@ import i1 from "../assets/profile1.png"
 import i2 from "../assets/profile2.png"
 import i3 from "../assets/profile3.png"
 
-const Portfolio = () => {
+const Portfolio1 = () => {
   return (
     <section id="portfolio" className="p-8 bg-[#3C2B4A] text-white">
       <center><h1 className="text-[50px]">Web Design</h1></center>
@@ -20,4 +20,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Portfolio1;

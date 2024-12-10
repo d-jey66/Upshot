@@ -1,9 +1,9 @@
 import React from "react";
 import Header1 from "./components/Header1"
 import StyleGuide1 from "./components/StyleGuide1";
-import Portfolio from "./components/Portfolio";
-import Footer from "./components/Footer";
-import Section from "./components/Section";
+import Portfolio1 from "./components/Portfolio1";
+import Footer1 from "./components/Footer1";
+import Section1 from "./components/Section1";
 
 const App = () => {
   return (
@@ -11,10 +11,10 @@ const App = () => {
       <Header1 />
       <main>
         <StyleGuide1 />
-        <Portfolio />
-        <Section />
+        <Portfolio1 />
+        <Section1 />
       </main>
-      <Footer />
+      <Footer1 />
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import React from "react";
 import Profile4 from "../assets/profile4.png";
 
-const Section = () => {
+const Section1 = () => {
   return (
     <section className="lg:px-[0px] lg:py-[0px] 2xl:py-[100px] 2xl:px-[300px]">
         <img src={Profile4} alt="" className="" />
@@ -9,4 +9,4 @@ const Section = () => {
   );
 };
 
-export default Section;
+export default Section1;
